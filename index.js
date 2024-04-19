@@ -24,7 +24,7 @@ app.use("/api/auth",authRoutes);
 
 
 
-app.listen(8300, () => {
+app.listen(8400, () => {
   console.log("app is runnning on port " + 8400)
 })
 
